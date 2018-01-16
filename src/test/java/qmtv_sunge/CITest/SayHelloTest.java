@@ -24,8 +24,10 @@ public class SayHelloTest{
 	public void testHello(){
 		System.out.println("---->>>>正则执行testHello的测试----");
 		SayHello hello = new SayHello();
-		String results = hello.sayHello("李小璐");
-		assertEquals("Hello 李小璐, welcome to Maven world.",results);		
+		String name = "贾乃亮";
+		System.out.println("马上和"+name+"say Hello啦...");
+		String results = hello.sayHello(name);
+		assertEquals("Hello "+name+", welcome to Maven world.",results);		
 	}
 	
 }
