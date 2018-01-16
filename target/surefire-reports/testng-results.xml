@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="qmtv_sunge.CITest.SayHelloTest" duration-ms="171" started-at="2018-01-16T04:21:40Z" finished-at="2018-01-16T04:21:40Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="171" started-at="2018-01-16T04:21:40Z" finished-at="2018-01-16T04:21:40Z">
+      <class name="qmtv_sunge.CITest.SayHelloTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:qmtv_sunge.CITest.SayHelloTest@3cb5cdba]" name="beforeTest" is-config="true" duration-ms="76" started-at="2018-01-16T12:21:40Z" finished-at="2018-01-16T12:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testHello()[pri:0, instance:qmtv_sunge.CITest.SayHelloTest@3cb5cdba]" name="testHello" duration-ms="32" started-at="2018-01-16T12:21:40Z" finished-at="2018-01-16T12:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHello -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:qmtv_sunge.CITest.SayHelloTest@3cb5cdba]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-01-16T12:21:40Z" finished-at="2018-01-16T12:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- qmtv_sunge.CITest.SayHelloTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- qmtv_sunge.CITest.SayHelloTest -->
+</testng-results>
